@@ -1,7 +1,7 @@
 <!-- ⚡ Futuristic GitHub Profile README for Jenil Ambaliya (Mr.AJ) -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=00FFFF&size=35&center=true&vCenter=true&width=650&lines=Hey+There!+👋;I'm+Jenil+Ambaliya+(Mr.AJ);Python+Engineer+🐍;AI+%26+Flutter+Developer+🚀;Building+Intelligent+Apps+%26+Systems" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=00FFFF&size=35&center=true&vCenter=true&width=675&lines=Hey+There!+👋;I'm+Jenil+Ambaliya+(Mr.AJ);Python+Engineer+🐍;AI+%26+Flutter+Developer+🚀;Building+Intelligent+Apps+%26+Systems" alt="Typing SVG">
 </h1>
 
 <h3 align="center">⚡ Python Engineer | AI/ML Developer | Flutter Expert | Automation & Backend Specialist</h3>
