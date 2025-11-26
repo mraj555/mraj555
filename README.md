@@ -8,7 +8,11 @@
 
 ---
 
-<img align="right" alt="developer coding" width="420" height="320" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+<div align="center">
+  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="Coding GIF" width="480" />
+</div>
+
+---
 
 ## 👨‍💻 About Me  
 - 💬 Ask me about **Python, AI/ML, NLP, Automation, APIs, Backend, and Flutter**  
@@ -43,9 +47,9 @@
 
 # 🐍 **Major Python Skills (Primary Expertise)**  
 
-<p align="center">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,flask,fastapi,django,aws,gcp,linux,opencv,postgres,mysql,redis,sklearn,anaconda&theme=dark" />
-</p>
+</div>
 
 ---
 
@@ -55,23 +59,21 @@
 |---------|-------------------|
 | **Machine Learning** | Scikit-learn, XGBoost, LightGBM |
 | **Deep Learning** | PyTorch, TensorFlow, Keras |
-| **NLP & LLMs** | Transformers, LangChain, SentenceTransformers, spaCy, NLTK |
-| **Computer Vision** | OpenCV, Mediapipe, YOLO, Vision Transformers |
-| **Data Science** | Pandas, NumPy, Matplotlib, Seaborn, Polars |
-| **Automation & Scripting** | Selenium, PyAutoGUI, Requests, BeautifulSoup |
-| **Backend & APIs** | FastAPI, Flask, Django, REST, WebSockets |
-| **Cloud & DevOps** | Docker, GitHub Actions, Firebase Admin SDK |
-| **Data Engineering** | Airflow, Pandas, Dask, SQLAlchemy |
-
-> 🧠 I build **AI-powered systems**, intelligent automations, and large-scale Python backends.
+| **NLP & LLMs** | Transformers, LangChain, SentenceTransformers |
+| **Computer Vision** | OpenCV, Mediapipe, YOLO |
+| **Data Science** | Pandas, NumPy, Matplotlib, Seaborn |
+| **Automation** | Selenium, Requests, BeautifulSoup |
+| **Backend** | FastAPI, Flask, Django, REST, WebSockets |
+| **Cloud & DevOps** | Docker, Firestore Admin, GitHub Actions |
+| **Data Engineering** | Airflow, Dask, SQLAlchemy |
 
 ---
 
-# 🦋 **Flutter Skills (Secondary Expertise but Strong)**  
+# 🦋 **Flutter Skills (Secondary Expertise)**  
 
-<p align="center">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,vscode,git,github,java,figma,postman,openai&theme=light" />
-</p>
+</div>
 
 ---
 
@@ -80,67 +82,53 @@
 | Category | Skills |
 |-----------|---------|
 | **State Management** | GetX, Provider |
-| **Firebase Services** | Auth, Firestore, FCM, Remote Config, Functions |
-| **Architecture** | MVVM, Modular, Clean Architecture |
-| **Integrations** | Razorpay, Google Maps, OneSignal |
-| **AI in Flutter** | Gemini API, OpenAI API, ML Kit integration |
-
-> 🔹 I combine **AI + Python** on the backend with **Flutter** on the frontend to build scalable intelligent apps.
-
----
-
-# 🤖 My AI Integration Expertise  
-
-| Area | Technologies / APIs |
-|------|----------------------|
-| **AI APIs** | OpenAI, Gemini, HuggingFace, Stability |
-| **AI in Apps** | LLM chatbots, Vision AI, recommendation engines |
-| **Voice & NLP** | STT/TTS, embeddings, intent detection |
-| **Backend AI Pipelines** | FastAPI + LLMs, Python microservices |
-| **Vision Systems** | Object detection, OCR, scene understanding |
+| **Firebase Services** | Firestore, Auth, FCM, Remote Config |
+| **Architecture** | MVVM, Clean Architecture |
+| **Integrations** | Google Maps, Razorpay, OneSignal |
+| **AI in Flutter** | Gemini API, OpenAI API, ML Kit |
 
 ---
 
 # 📊 GitHub Stats  
 
-<p align="center">
+<div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mraj555&show_icons=true&theme=radical&hide_border=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mraj555&theme=radical&hide_border=true" />
-</p>
+</div>
 
-<p align="center">
+<div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mraj555&layout=compact&theme=radical&hide_border=true" />
-</p>
+</div>
 
 ---
 
 # 📈 My GitHub Activity Graph  
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mraj555&theme=react-dark&hide_border=true&area=true" width="100%"/>
-</p>
+</div>
 
 ---
 
 # 💡 Current Focus  
-> 🚀 Building **AI + Python ecosystems** for automation, predictions & intelligent decision-making  
-> 🔹 Developing **FastAPI-based AI microservices**  
-> 🔹 Expanding **Generative AI, Vision ML, LLM apps**  
-> 🔹 Creating **AI-powered developer tools** and mobile-first AI experiences
+> 🚀 Building **AI + Python ecosystems**  
+> 🔹 Developing scalable **FastAPI microservices**  
+> 🔹 Expanding **Generative AI & Vision ML**  
+> 🔹 Crafting **AI-powered developer tools & mobile intelligence**
 
 ---
 
 ## 🧬 Developer Energy  
-<p align="center">
+<div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
-</p>
+</div>
 
 ---
 
 ## 🧩 Visitor Counter  
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mraj555&style=for-the-badge&color=blueviolet" alt="Profile Views" />
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mraj555&style=for-the-badge&color=blueviolet" />
+</div>
 
 ---
 
