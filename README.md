@@ -91,14 +91,27 @@
 
 # 📊 GitHub Stats  
 
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mraj555&show_icons=true&theme=radical&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mraj555&theme=radical&hide_border=true" />
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+
+  <img 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mraj555&show_icons=true&theme=radical&hide_border=true" 
+    width="48%" 
+  />
+
+  <img 
+    src="https://streak-stats.demolab.com?user=mraj555&theme=radical&hide_border=true" 
+    width="48%" 
+  />
+
 </div>
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mraj555&layout=compact&theme=radical&hide_border=true" />
+  <img 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mraj555&layout=compact&theme=radical&hide_border=true" 
+    width="48%"
+  />
 </div>
+
 
 ---
 
