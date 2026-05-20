@@ -89,6 +89,53 @@
 
 ---
 
+# 🏆 **GitHub Trophies & Achievements**
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mraj555&theme=radical&no-frame=true&no-bg=false&margin-w=6&margin-h=6&column=7" width="100%" alt="GitHub Trophies" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mraj555&theme=radical&no-frame=true&no-bg=false&margin-w=6&margin-h=6&column=4&rank=SECRET,SSS,SS,S" width="70%" alt="Top GitHub Trophies" />
+</div>
+
+---
+
+## 🎖️ **Milestone Achievements**
+
+<div align="center">
+
+| 🏅 Achievement | 🔢 Milestone | ⚡ Status |
+|:-:|:-:|:-:|
+| 🚀 Apps Shipped | 14+ Live Projects | ✅ Achieved |
+| 🤖 AI Systems Built | LLM · Vision · NLP | ✅ Achieved |
+| 🌐 Domains Covered | E-comm · EV · Health · EdTech · AI | ✅ Achieved |
+| 🔁 Pipelines Automated | FastAPI · Airflow · GitHub Actions | ✅ Achieved |
+| 📱 Cross-platform Apps | Flutter + Firebase | ✅ Achieved |
+| 🧬 ML Models Deployed | Classification · Detection · GenAI | ✅ Achieved |
+| ☁️ Cloud Integrations | AWS · GCP · Firebase | ✅ Achieved |
+
+</div>
+
+---
+
+## 🔥 **GitHub Badges Showcase**
+
+<div align="center">
+
+![Pull Shark](https://img.shields.io/badge/Pull%20Shark-0969DA?style=for-the-badge&logo=github&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-FFA500?style=for-the-badge&logo=github&logoColor=white)
+![Quickdraw](https://img.shields.io/badge/Quickdraw-6F42C1?style=for-the-badge&logo=github&logoColor=white)
+![Starstruck](https://img.shields.io/badge/Starstruck-FFD700?style=for-the-badge&logo=github&logoColor=black)
+![Pair Extraordinaire](https://img.shields.io/badge/Pair%20Extraordinaire-EA4AAA?style=for-the-badge&logo=github&logoColor=white)
+![Public Sponsor](https://img.shields.io/badge/Public%20Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)
+
+</div>
+
+---
+
 # 📊 GitHub Stats  
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
@@ -131,4 +178,4 @@
 
 ---
 
-<h3 align="center">✨ “Build Smart. Automate Everything. Deliver Intelligent Experiences.” ✨</h3>
+<h3 align="center">✨ "Build Smart. Automate Everything. Deliver Intelligent Experiences." ✨</h3>
