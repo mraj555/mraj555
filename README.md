@@ -7,7 +7,6 @@
 <h3 align="center">⚡ Python Engineer | AI/ML Developer | Flutter Expert | Automation & Backend Specialist</h3>
 
 <p align="center">
-  <!-- ✅ All dynamic — pull live data from GitHub & komarev -->
   <img src="https://komarev.com/ghpvc/?username=mraj555&style=for-the-badge&color=00FFFF&label=PROFILE+VIEWS" />
   <img src="https://img.shields.io/github/followers/mraj555?style=for-the-badge&color=blueviolet&label=FOLLOWERS&logo=github" />
   <img src="https://img.shields.io/github/stars/mraj555?style=for-the-badge&color=yellow&label=TOTAL+STARS&logo=github" />
@@ -43,6 +42,16 @@ class MrAJ:
 - ☁️ Strong expertise in **Firebase**, **Serverless**, **FastAPI**, and **cloud automation**
 - 📫 Reach me → **jenilambaliya999@gmail.com**
 - ⚡ Fun fact: *I convert ideas into intelligent apps that think and react.*
+
+---
+
+## 💡 Current Focus
+
+> 🚀 Building **AI + Python ecosystems**
+>
+> 🔹 Developing scalable **FastAPI microservices**
+> 🔹 Expanding **Generative AI & Vision ML**
+> 🔹 Crafting **AI-powered developer tools & mobile intelligence**
 
 ---
 
@@ -140,13 +149,9 @@ class MrAJ:
 
 ## 📊 GitHub Stats
 
-<!-- ✅ streak-stats.demolab.com — live real data -->
-<!-- ✅ github-profile-summary-cards.vercel.app — live real data -->
-<!-- ❌ github-readme-stats.vercel.app — DEAD, not used -->
-
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=mraj555&theme=radical&hide_border=true" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mraj555&theme=radical" width="49%" />
+  <img src="https://raw.githubusercontent.com/mraj555/mraj555/main/profile-summary-card-output/radical/0-profile-details.svg" width="49%" />
 </div>
 
 <div align="center">
@@ -155,11 +160,15 @@ class MrAJ:
   <img src="https://raw.githubusercontent.com/mraj555/mraj555/main/profile-summary-card-output/radical/3-stats.svg" width="32%" />
 </div>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mraj555/mraj555/main/profile-summary-card-output/radical/4-productive-time.svg" width="49%" />
+  <img src="https://img.shields.io/badge/Stats%20Updated-Daily%20via%20Actions-00FFFF?style=for-the-badge&logo=githubactions&logoColor=white" />
+</div>
+
 ---
 
 ## 🎯 Live GitHub Numbers
 
-<!-- ✅ 100% dynamic — shields.io fetches live from GitHub API on every page load -->
 <p align="center">
   <img src="https://img.shields.io/github/followers/mraj555?label=Followers&style=for-the-badge&logo=github&color=ff69b4" />
   <img src="https://img.shields.io/github/stars/mraj555?label=Total%20Stars&style=for-the-badge&logo=github&color=yellow&affiliations=OWNER" />
@@ -171,29 +180,25 @@ class MrAJ:
 
 ## 🏆 GitHub Trophies
 
-<!-- ✅ github-profile-trophy.vercel.app — live real data -->
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mraj555&theme=radical&no-frame=true&no-bg=false&margin-w=6&margin-h=6&column=7" width="100%" />
 </div>
 
 ---
 
-## 📈 GitHub Activity Graph
+## 🐍 Contribution Snake
 
-<!-- ✅ github-readme-activity-graph.vercel.app — live real data -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mraj555&theme=react-dark&hide_border=true&area=true" width="100%"/>
+  <img src="https://raw.githubusercontent.com/mraj555/mraj555/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
 
-## 💡 Current Focus
+## 📈 GitHub Activity Graph
 
-> 🚀 Building **AI + Python ecosystems**
->
-> 🔹 Developing scalable **FastAPI microservices**  
-> 🔹 Expanding **Generative AI & Vision ML**  
-> 🔹 Crafting **AI-powered developer tools & mobile intelligence**
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mraj555&theme=react-dark&hide_border=true&area=true" width="100%"/>
+</div>
 
 ---
 
