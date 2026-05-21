@@ -1,0 +1,25 @@
+name: GitHub-Profile-Summary-Cards
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # Runs every day at midnight UTC
+  workflow_dispatch:        # Allows you to run it manually too
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-summary-cards
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
+        with:
+          USERNAME: mraj555
+          BRANCH_NAME: "main"
+          UTC_OFFSET: 5       # IST (India Standard Time)
+          EXCLUDE: ""
+          AUTO_PUSH: true
