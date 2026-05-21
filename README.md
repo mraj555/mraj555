@@ -150,9 +150,9 @@ class MrAJ:
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mraj555&theme=radical" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mraj555&theme=radical" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mraj555&theme=radical" width="32%" />
+  <img src="https://raw.githubusercontent.com/mraj555/mraj555/main/profile-summary-card-output/radical/1-repos-per-language.svg" width="32%" />
+  <img src="https://raw.githubusercontent.com/mraj555/mraj555/main/profile-summary-card-output/radical/2-most-commit-language.svg" width="32%" />
+  <img src="https://raw.githubusercontent.com/mraj555/mraj555/main/profile-summary-card-output/radical/3-stats.svg" width="32%" />
 </div>
 
 ---
